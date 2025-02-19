@@ -6,7 +6,7 @@ A streamlined web application for data cleaning and file format conversion.
 Created by [Muhammad Sami](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 
 ## Live Demo
-Try Data Sweeper now at: [Data Sweeper Live Demo](https://data-sweeper.streamlit.app/)
+Try Data Sweeper now at: [Data Sweeper Live Demo](https://data-sweeper-app2.streamlit.app/)
 
 ## Features
 
